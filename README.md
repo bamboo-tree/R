@@ -6,3 +6,5 @@
 - Zestaw 2 - rozkłady i bardziej zaawansowane wykresy
 - Zestaw 3 - przeprowadzanie eksperymentów z rozkładami i testy `chisq.test`
 - Zestaw 4 - porównywanie rozkładów próbki; `ks.test`, `shapiro.test`
+- Zestaw 5 - analiza danych: `kruskal.test`, `ks.test`; test niezależności `chisq.test`
+- **Kolokwium**
