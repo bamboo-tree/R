@@ -21,6 +21,6 @@ curve(pnorm(x, m, s), col = 4, add = TRUE)
 
 # NOTE:
 # test shapiro pozwala sprawdzić czy próba pochodzi z rozkładu normalnego
-# kykresy qq pokazują czy próbka ma rozkład liniowy, dobre do testu shapiro
+# wykresy qq pokazują czy próbka ma rozkład liniowy, dobre do testu shapiro
 # szacowanie parametrów m i s do testu KS
 # wykres ecdf

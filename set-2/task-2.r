@@ -1,6 +1,6 @@
 dane <- rnorm(1000, 100, 16)
 
-h <- hist(dane, breaks = 50, xlim = c(40, 160), freq = TRUE) 
+h <- hist(dane, breaks = 50, xlim = c(40, 160), freq = TRUE)
 h <- hist(dane, breaks = 50, xlim = c(40, 160), col = 4, freq = FALSE) # freq = FALSE dla wykresu gęstości # nolint
 str(h)
 

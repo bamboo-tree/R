@@ -15,7 +15,7 @@ wm <- weighted.mean(wartosci$mids, wartosci$counts)
 
 # wariancja danych zgrupowanych
 var(dane)
-sum((dane - m)^2 / (length(dane) - 1)) 
+sum((dane - m)^2 / (length(dane) - 1))
 
 # wariancja danych niezgrupowanych
 sum(wartosci$counts * (wartosci$mids - wm)^2) / (length(dane) - 1)
