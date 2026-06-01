@@ -1,0 +1,945 @@
+Miasto;pow;lud
+Bardo;5;2553
+Bielawa;36;29872
+Bierutów;8;4874
+Bogatynia;60;17318
+Boguszów-Gorce;27;15310
+Boles³awiec;24;38872
+Bolków;8;4967
+Brzeg Dolny;17;12506
+Bystrzyca K³odzka;11;10047
+Chocianów;9;7866
+Chojnów;5;13266
+Duszniki-Zdrój;22;4545
+Dzier¿oniów;20;33137
+G³ogów;35;66980
+G³uszyca;16;6335
+Góra;14;11678
+Gryfów Œl¹ski;7;6617
+Jawor;19;22758
+Jaworzyna Œl¹ska;4;5111
+Jedlina-Zdrój;17;4820
+Jelcz-Laskowice;17;15745
+Jelenia Góra;109;79061
+Kamienna Góra;18;18840
+Karpacz;38;4570
+K¹ty Wroc³awskie;9;7001
+K³odzko;25;26742
+Kowary;37;10813
+Kudowa-Zdrój;34;9886
+L¹dek-Zdrój;20;5557
+Legnica;56;99350
+Leœna;9;4394
+Lubañ;16;20965
+Lubawka;22;5989
+Lubin;41;72300
+Lubomierz;8;2004
+Lwówek Œl¹ski;17;8822
+Mieroszów;10;4045
+Miêdzybórz;6;2354
+Miêdzylesie;14;2561
+Milicz;14;11312
+Mirsk;15;3814
+Niemcza;20;2963
+Nowa Ruda;37;21908
+Nowogrodziec;16;4207
+Oborniki Œl¹skie;14;9120
+Oleœnica;21;37142
+Olszyna;20;4344
+O³awa;27;33108
+Piechowice;43;6156
+Pieñsk;10;5763
+Pieszyce;18;7095
+Pi³awa Górna;21;6394
+Polanica-Zdrój;17;6307
+Polkowice;24;22486
+Prochowice;10;3577
+Prusice;11;2241
+Przemków;6;6091
+Radków;15;2413
+Siechnice;16;8320
+Sobótka;32;6989
+Stronie Œl¹skie;2;5679
+Strzegom;21;16032
+Strzelin;10;12474
+Syców;17;10381
+Szczawno-Zdrój;15;5569
+Szczytna;80;5130
+Szklarska Porêba;75;6633
+Œcinawa;13;5530
+Œroda Œl¹ska;15;9539
+Œwidnica;22;56803
+Œwiebodzice;30;22744
+Œwieradów-Zdrój;21;4100
+Œwierzawa;2;2249
+Trzebnica;11;13343
+Twardogóra;8;6624
+Wa³brzych;85;111356
+W¹sosz;3;2660
+Wêgliniec;9;2830
+Wi¹zów;9;2212
+Wleñ;7;1751
+Wojcieszów;32;3650
+Wo³ów;19;12350
+Wroc³aw;293;642869
+Zawidów;6;4180
+Z¹bkowice Œl¹skie;14;14929
+Zgorzelec;16;30231
+Ziêbice;15;8650
+Z³otoryja;12;15496
+Z³oty Stok;8;2728
+¯arów;8;6698
+¯migród;10;6443
+Aleksandrów Kujawski;7;12102
+Barcin;4;7381
+Brodnica;23;28880
+Brzeœæ Kujawski;7;4596
+Bydgoszcz;176;348190
+Che³mno;14;19510
+Che³m¿a;7;14449
+Chodecz;1;1852
+Ciechocinek;15;10618
+Dobrzyñ nad Wis³¹;5;2117
+Gniewkowo;9;7092
+Golub-Dobrzyñ;8;12546
+Górzno;4;1382
+Grudzi¹dz;58;94368
+Inowroc³aw;30;72561
+Izbica Kujawska;2;2596
+Jab³onowo Pomorskie;3;3716
+Janikowo;10;8712
+Janowiec Wielkopolski;3;3935
+Kamieñ Krajeñski;4;2364
+Kcynia;7;4617
+Koronowo;28;11089
+Kowal;5;3505
+Kowalewo Pomorskie;4;4143
+Kruszwica;7;8819
+Lipno;11;14371
+Lubieñ Kujawski;2;1394
+Lubraniec;2;3012
+£abiszyn;3;4469
+£asin;5;3197
+Mogilno;8;11786
+Mrocza;5;4332
+Nak³o nad Noteci¹;11;18189
+Nieszawa;10;1843
+Nowe;3;5787
+Pakoœæ;3;5676
+Piotrków Kujawski;9;4426
+Radziejów;6;5516
+Radzyñ Che³miñski;2;1813
+Rypin;10;16130
+Sêpólno Krajeñskie;7;9093
+Skêpe;8;3590
+Solec Kujawski;19;15635
+Strzelno;5;5611
+Szubin;8;9545
+Œwiecie;12;25634
+Toruñ;116;201447
+Tuchola;18;13649
+W¹brzeŸno;9;13518
+Wiêcbork;4;5965
+W³oc³awek;84;109883
+¯nin;8;13793
+Annopol;8;2488
+Be³¿yce;23;6477
+Bia³a Podlaska;49;57170
+Bi³goraj;21;26329
+Bychawa;7;4855
+Che³m;35;61932
+Dêblin;38;16058
+Frampol;5;1440
+Hrubieszów;33;17528
+Janów Lubelski;15;11879
+Józefów;5;2474
+Józefów nad Wis³¹;3;920
+Kazimierz Dolny;31;2530
+Kock;17;3273
+Krasnobród;7;3101
+Krasnystaw;42;18630
+Kraœnik;26;34230
+Lubartów;14;21828
+Lublin;148;339784
+Lubycza Królewska;4;2440
+£aszczów;5;2128
+£êczna;19;18820
+£uków;36;29728
+Miêdzyrzec Podlaski;20;16753
+Modliborzyce;8;1459
+Na³êczów;14;3753
+Opole Lubelskie;15;8388
+Ostrów Lubelski;30;2110
+Parczew;8;10648
+Piaski;8;2573
+Poniatowa;15;9083
+Pu³awy;51;47417
+Radzyñ Podlaski;19;15656
+Rejowiec;6;2068
+Rejowiec Fabryczny;15;4386
+Ryki;28;9634
+Siedliszcze;13;1431
+Stoczek £ukowski;9;2500
+Szczebrzeszyn;29;4964
+Œwidnik;20;39136
+Tarnogród;11;3308
+Terespol;10;5560
+Tomaszów Lubelski;13;19035
+Tyszowce;19;2091
+Urzêdów;13;1694
+W³odawa;18;13066
+Zamoœæ;30;63437
+Zwierzyniec;6;3165
+Babimost;4;3923
+Bytom Odrzañski;2;4308
+Cybinka;6;2751
+Czerwieñsk;9;3988
+Dobiegniew;6;3071
+Drezdenko;11;10074
+Gorzów Wielkopolski;86;123609
+Gozdnica;24;3000
+Gubin;21;16614
+I³owa;10;3874
+Jasieñ;5;4262
+Kargowa;5;3768
+Kostrzyn nad Odr¹;46;17730
+Ko¿uchów;6;9356
+Krosno Odrzañskie;8;11238
+Lubniewice;12;2082
+Lubsko;13;13876
+£êknica;16;2459
+Ma³omice;7;3480
+Miêdzyrzecz;10;17839
+Nowa Sól;22;38645
+Nowe Miasteczko;3;2757
+Nowogród Bobrzañski;15;5134
+Oœno Lubuskie;8;3915
+Otyñ;8;1637
+Rzepin;11;6505
+Skwierzyna;36;9593
+S³awa;14;4290
+S³ubice;19;16644
+Strzelce Krajeñskie;6;9916
+Sulechów;7;16750
+Sulêcin;9;10096
+Szlichtyngowa;2;1274
+Szprotawa;11;11711
+Œwiebodzin;17;21685
+Torzym;9;2541
+Trzciel;3;2358
+Witnica;8;6731
+Wschowa;9;13851
+Zb¹szynek;4;5032
+Zielona Góra;277;141222
+¯agañ;40;25668
+¯ary;33;37304
+Aleksandrów £ódzki;14;21739
+Be³chatów;35;56973
+Bia³a Rawska;9;3151
+B³aszki;2;2085
+Brzeziny;22;12501
+Drzewica;5;3826
+Dzia³oszyn;5;5810
+G³owno;20;14119
+Kamieñsk;12;2753
+Koluszki;11;12928
+Konstantynów £ódzki;27;18206
+Kroœniewice;4;4322
+Kutno;34;43911
+Lututów;19;2232
+£ask;15;17143
+£êczyca;9;13971
+£owicz;23;28224
+£ódŸ;293;679941
+Opoczno;27;21060
+Ozorków;15;19311
+Pabianice;33;64757
+Pajêczno;20;6662
+Pi¹tek;5;1721
+Piotrków Trybunalski;67;73090
+Poddêbice;6;7374
+Przedbórz;6;3513
+Radomsko;51;45843
+Rawa Mazowiecka;14;17324
+Rzgów;17;3371
+Sieradz;51;41953
+Skierniewice;35;48089
+Stryków;8;3478
+Sulejów;26;6177
+Szadek;17;1902
+Tomaszów Mazowiecki;42;61960
+Tuszyn;23;7255
+Uniejów;12;3000
+Warta;11;3242
+Wieluñ;17;22269
+Wieruszów;6;8517
+Wolbórz;15;2328
+Zduñska Wola;25;41686
+Zelów;11;7541
+Zgierz;42;56190
+Z³oczew;14;3363
+¯ychlin;9;8109
+Alwernia;9;3344
+Andrychów;10;20016
+Biecz;17;4607
+Bobowa;7;3144
+Bochnia;30;29718
+Brzesko;12;16819
+Brzeszcze;19;11192
+Bukowno;65;10106
+Che³mek;8;9031
+Chrzanów;38;36575
+Ciê¿kowice;11;2479
+Czchów;14;2340
+D¹browa Tarnowska;23;11864
+Dobczyce;14;6427
+Gorlice;24;27357
+Grybów;17;6026
+Jordanów;21;5366
+Kalwaria Zebrzydowska;6;4493
+Kêty;23;18623
+Koszyce;3;778
+Kraków;327;779115
+Krynica-Zdrój;40;10568
+Krzeszowice;18;9975
+Libi¹¿;36;17003
+Limanowa;19;15162
+Maków Podhalañski;20;5824
+Miechów;15;11569
+Mszana Dolna;27;7889
+Muszyna;24;4760
+Myœlenice;30;18366
+Niepo³omice;28;13564
+Nowe Brzesko;8;1667
+Nowy S¹cz;58;83794
+Nowy Targ;51;33293
+Nowy Wiœnicz;5;2758
+Olkusz;25;35170
+Oœwiêcim;30;38005
+Piwniczna-Zdrój;38;5860
+Proszowice;7;5983
+Rabka-Zdrój;36;12772
+Rad³ów;17;2742
+Ryglice;25;2836
+Ska³a;3;3801
+Skawina;20;24310
+S³omniki;3;4321
+Stary S¹cz;15;9085
+Sucha Beskidzka;28;9088
+Su³kowice;16;6633
+Szczawnica;33;5711
+Szczucin;7;4157
+Œwi¹tniki Górne;4;2438
+Tarnów;72;108470
+Trzebinia;32;19663
+Tuchów;18;6594
+Wadowice;11;18692
+Wieliczka;13;23849
+Wojnicz;8;3314
+Wolbrom;10;8561
+Zakliczyn;4;1631
+Zakopane;84;27010
+Zator;12;3664
+¯abno;11;4200
+Bia³obrzegi;8;6891
+Bie¿uñ;12;1850
+B³onie;9;12195
+Brok;28;1924
+Brwinów;10;13698
+Chorzele;18;3113
+Ciechanów;33;44138
+Czerwiñsk nad Wis³¹;5;1033
+Drobin;10;2861
+Garwolin;22;17602
+G¹bin;28;4121
+Glinojeck;7;3008
+Gostynin;32;18527
+Góra Kalwaria;14;12109
+Grodzisk Mazowiecki;14;32125
+Grójec;8;16758
+Halinów;3;3745
+I³¿a;17;4727
+Józefów;24;20724
+Ka³uszyn;12;2891
+Karczew;28;9826
+Koby³ka;20;24414
+Konstancin-Jeziorna;18;17040
+Kosów Lacki;11;2087
+Kozienice;10;17072
+Legionowo;14;53886
+Lipsko;16;5455
+Lubowidz;6;1651
+£askarzew;15;4829
+£ochów;13;6838
+£omianki;8;17042
+£osice;24;7042
+Maków Mazowiecki;10;9711
+Marki;26;35461
+Milanówek;13;16416
+Miñsk Mazowiecki;13;40999
+M³awa;35;31246
+Mogielnica;13;2237
+Mordy;5;1750
+Mrozy;8;3588
+Mszczonów;9;6343
+Myszyniec;11;3421
+Nasielsk;13;7697
+Nowe Miasto nad Pilic¹;11;3717
+Nowy Dwór Mazowiecki;28;28679
+Ostro³êka;33;52055
+Ostrów Mazowiecka;22;22399
+Otwock;47;44635
+O¿arów Mazowiecki;8;11938
+Piaseczno;16;48450
+Piastów;6;22679
+Pilawa;7;4588
+Pionki;18;18159
+P³ock;88;119425
+P³oñsk;12;22107
+Podkowa Leœna;10;3844
+Pruszków;19;62317
+Przasnysz;25;17177
+Przysucha;7;5801
+Pu³tusk;23;19414
+Raci¹¿;8;4394
+Radom;112;211371
+Radzymin;23;13118
+Ró¿an;7;2720
+Sanniki;12;1949
+Serock;13;4585
+Siedlce;32;78185
+Sierpc;19;17933
+Skaryszew;27;4354
+Sochaczew;26;36282
+Soko³ów Podlaski;18;18945
+Sulejówek;19;19838
+Szyd³owiec;22;11687
+Tarczyn;5;4132
+T³uszcz;8;8196
+Warka;27;11952
+Warszawa;517;1790658
+Wêgrów;36;12583
+Wo³omin;17;37056
+Wyszków;21;26997
+Wyszogród;13;2601
+Wyœmierzyce;17;894
+Zakroczym;20;3183
+Z¹bki;11;37818
+Zielonka;79;17560
+Zwoleñ;16;7715
+¯elechów;12;3930
+¯uromin;11;8816
+¯yrardów;14;39828
+Baborów;12;2920
+Bia³a;15;2414
+Brzeg;15;35709
+Byczyna;6;3534
+Dobrodzieñ;19;3690
+G³ogówek;22;5585
+G³ubczyce;13;12521
+G³ucho³azy;6;13503
+Gogolin;21;6734
+Gorzów Œl¹ski;19;2467
+Grodków;9;8570
+Kêdzierzyn-KoŸle;124;60641
+Kietrz;19;5951
+Kluczbork;12;23480
+Kolonowskie;56;3294
+Korfantów;10;1793
+Krapkowice;21;16222
+Leœnica;15;2555
+Lewin Brzeski;12;5722
+Namys³ów;23;16596
+Niemodlin;13;6279
+Nysa;28;43681
+Olesno;15;9407
+Opole;149;128035
+Otmuchów;50;6552
+Ozimek;3;8603
+Paczków;7;7464
+Praszka;9;7602
+Prószków;16;2596
+Prudnik;20;20989
+Strzelce Opolskie;30;17835
+Tu³owice;9;4027
+Ujazd;15;1737
+Wo³czyn;7;5884
+Zawadzkie;16;7107
+Zdzieszowice;12;11449
+Baranów Sandomierski;9;1459
+B³a¿owa;4;2144
+Boguchwa³a;8;6184
+Brzostek;9;2746
+Brzozów;11;7438
+Cieszanów;15;1909
+Dêbica;34;45504
+Dukla;5;2070
+Dynów;25;6120
+G³ogów Ma³opolski;21;8530
+Iwonicz-Zdrój;6;1789
+Jaros³aw;35;37479
+Jas³o;37;34882
+Jedlicze;11;5717
+Kañczuga;8;3163
+Kolbuszowa;8;9004
+Ko³aczyce;7;1400
+Krosno;44;46291
+Lesko;15;5432
+Le¿ajsk;21;13799
+Lubaczów;26;11970
+£añcut;19;17711
+Mielec;47;60323
+Narol;12;2046
+Nisko;61;15331
+Nowa Dêba;17;11109
+Nowa Sarzyna;9;5798
+Oleszyce;5;2968
+Pilzno;16;4927
+Pruchnik;20;3745
+Przec³aw;16;1781
+Przemyœl;46;60689
+Przeworsk;22;15291
+Radomyœl Wielki;9;3226
+Radymno;14;5273
+Ropczyce;47;15860
+Rudnik nad Sanem;37;6754
+Rymanów;12;3816
+Rzeszów;126;196208
+Sanok;38;37359
+Sêdziszów Ma³opolski;37;12350
+Sieniawa;7;2149
+Soko³ów Ma³opolski;16;4203
+Stalowa Wola;83;60466
+Strzy¿ów;14;8831
+Tarnobrzeg;85;46745
+Tyczyn;9;3871
+Ulanów;8;1446
+Ustrzyki Dolne;17;9041
+Zagórz;22;5120
+Zaklików;11;2955
+Augustów;81;30153
+Bia³ystok;102;297554
+Bielsk Podlaski;27;25262
+Brañsk;32;3753
+Choroszcz;17;5908
+Ciechanowiec;20;4613
+Czarna Bia³ostocka;14;9279
+Czy¿ew;5;2647
+D¹browa Bia³ostocka;23;5502
+Drohiczyn;16;1965
+Goni¹dz;4;1848
+Grajewo;19;21900
+Hajnówka;21;20488
+Jedwabne;4;1615
+Kleszczele;47;1240
+Knyszyn;24;2744
+Kolno;25;10199
+Krynki;4;2372
+Lipsk;5;2310
+£apy;12;15541
+£om¿a;33;62945
+Micha³owo;2;3011
+Moñki;8;9984
+Nowogród;21;2156
+Rajgród;35;1572
+Sejny;4;5260
+Siemiatycze;36;14391
+Sokó³ka;19;18063
+Stawiski;13;2161
+Suchowola;26;2178
+Supraœl;6;4610
+Sura¿;34;991
+Suwa³ki;66;69758
+Szczuczyn;13;3354
+Szepietowo;3;2165
+Tykocin;29;1968
+Wasilków;28;11622
+Wysokie Mazowieckie;15;9341
+Zab³udów;14;2482
+Zambrów;19;22018
+Brusy;5;5182
+Bytów;9;16881
+Chojnice;21;39804
+Czarna Woda;10;2769
+Czarne;46;5889
+Czersk;10;9920
+Cz³uchów;13;13624
+Debrzno;7;5066
+Dzierzgoñ;4;5335
+Gdañsk;262;470907
+Gdynia;135;246348
+Gniew;7;6661
+Hel;23;3261
+Jastarnia;5;2708
+Kartuzy;7;14483
+Kêpice;6;3575
+Koœcierzyna;16;23742
+Krynica Morska;118;1286
+Kwidzyn;22;38418
+Lêbork;18;35273
+£eba;17;3601
+Malbork;17;38345
+Miastko;6;10384
+Nowy Dwór Gdañski;5;9888
+Nowy Staw;5;4233
+Pelplin;4;7737
+Prabuty;7;8684
+Pruszcz Gdañski;16;31326
+Puck;5;11241
+Reda;34;26307
+Rumia;30;49230
+Skarszewy;11;7012
+Skórcz;4;3623
+S³upsk;43;90681
+Sopot;17;35719
+Starogard Gdañski;25;47671
+Sztum;5;9870
+Tczew;22;59951
+Ustka;10;15367
+Wejherowo;27;49505
+W³adys³awowo;13;9931
+¯ukowo;5;6689
+Bêdzin;37;56354
+Bielsko-Bia³a;125;170663
+Bieruñ;40;19507
+Blachownia;36;9555
+Bytom;69;165263
+Chorzów;33;107807
+Cieszyn;29;34424
+Czechowice-Dziedzice;33;35925
+CzeladŸ;16;31405
+Czerwionka-Leszczyny;38;28134
+Czêstochowa;160;220433
+D¹browa Górnicza;189;119373
+Gliwice;134;178603
+Imielin;28;9189
+Jastrzêbie-Zdrój;85;88743
+Jaworzno;153;91115
+Kalety;76;8589
+Katowice;165;292774
+K³obuck;47;12862
+Knurów;34;38112
+Koniecpol;37;5902
+Kozieg³owy;27;2445
+Krzanowice;4;2166
+Krzepice;28;4421
+KuŸnia Raciborska;31;5305
+Lêdziny;32;16798
+Lubliniec;89;23757
+£aziska Górne;20;22215
+£azy;9;6798
+Miasteczko Œl¹skie;68;7442
+Miko³ów;79;41014
+Mys³owice;66;74618
+Myszków;74;31585
+Ogrodzieniec;29;4258
+Orzesze;84;21176
+Piekary Œl¹skie;40;55030
+Pilica;8;1917
+Porêba;40;8480
+Pszczyna;22;25833
+Pszów;20;13844
+Pyskowice;31;18429
+Racibórz;75;54739
+Radlin;13;17759
+Radzionków;13;16873
+Ruda Œl¹ska;78;137360
+Rybnik;148;138098
+Rydu³towy;15;21514
+Siemianowice Œl¹skie;25;66841
+Siewierz;39;5568
+Skoczów;10;14302
+S³awków;37;6983
+Sosnowiec;91;199974
+Soœnicowice;11;1906
+Strumieñ;6;3697
+Szczekociny;18;3595
+Szczyrk;39;5751
+Œwiêtoch³owice;13;49557
+Tarnowskie Góry;84;61686
+Toszek;10;3589
+Tychy;82;127590
+Ustroñ;59;16067
+Wilamowice;10;3113
+Wis³a;109;11096
+Wodzis³aw Œl¹ski;50;47813
+Wojkowice;13;8942
+WoŸniki;71;4297
+Zabrze;80;172360
+Zawiercie;85;49204
+¯arki;25;4567
+¯ory;65;62472
+¯ywiec;51;31091
+Bodzentyn;8;2211
+Busko-Zdrój;12;15786
+Chêciny;14;4430
+Chmielnik;8;3662
+Æmielów;14;3021
+Daleszyce;16;2883
+Dzia³oszyce;2;897
+Jêdrzejów;11;15014
+Kazimierza Wielka;5;5523
+Kielce;110;194852
+Klimontów;4;1905
+Koñskie;18;19080
+Koprzywnica;18;2461
+Kunów;7;2936
+£agów;8;1562
+Ma³ogoszcz;10;3726
+Morawica;4;1716
+Nowa S³upia;14;1373
+Nowy Korczyn;8;938
+Oleœnica;10;1839
+Opatowiec;6;338
+Opatów;9;6457
+Osiek;18;1991
+Ostrowiec Œwiêtokrzyski;46;68338
+O¿arów;8;4534
+Pacanów;7;1121
+Pierzchnica;7;1178
+Piñczów;14;10717
+Po³aniec;17;8072
+Radoszyce;17;3140
+Sandomierz;29;23362
+Sêdziszów;8;6408
+Skalbmierz;7;1275
+Skar¿ysko-Kamienna;64;44848
+Starachowice;32;48395
+Staszów;27;14649
+St¹porków;11;5630
+Stopnica;4;1415
+Suchedniów;60;8323
+Szyd³ów;16;1101
+W¹chock;16;2768
+Wiœlica;5;504
+W³oszczowa;30;9924
+Zawichost;20;1754
+Barczewo;5;7501
+Bartoszyce;11;23284
+Bia³a Piska;4;4030
+Biskupiec;5;10634
+Bisztynek;2;2359
+Braniewo;12;16992
+Dobre Miasto;5;10182
+Dzia³dowo;11;21274
+Elbl¹g;80;119317
+E³k;21;62109
+Frombork;8;2326
+Gi¿ycko;14;29307
+Go³dap;17;13708
+Górowo I³aweckie;3;3940
+I³awa;22;33327
+Jeziorany;3;3153
+Kêtrzyn;10;27056
+Kisielice;3;2100
+Korsze;4;4193
+Lidzbark;6;7741
+Lidzbark Warmiñski;14;15697
+Lubawa;17;10388
+Miko³ajki;9;3787
+Mi³akowo;9;2540
+Mi³om³yn;12;2427
+M³ynary;3;1765
+Mor¹g;6;13701
+Mr¹gowo;15;21556
+Nidzica;7;13694
+Nowe Miasto Lubawskie;11;10850
+Olecko;12;16422
+Olsztyn;88;171979
+Olsztynek;8;7514
+Orneta;10;8723
+Orzysz;8;5535
+Ostróda;14;32888
+Pas³êk;11;12178
+Pasym;15;2498
+Pieniê¿no;4;2712
+Pisz;10;19198
+Reszel;4;4550
+Ruciane-Nida;17;4451
+Ryn;4;2843
+Sêpopol;5;1941
+Susz;7;5567
+Szczytno;11;23088
+Tolkmicko;2;2663
+Wêgorzewo;11;11280
+Wielbark;18;2987
+Zalewo;8;2141
+Bojanowo;2;2908
+Borek Wielkopolski;7;2502
+Buk;3;6008
+Chocz;7;1787
+Chodzie¿;13;18480
+Czarnków;10;10607
+Czempiñ;3;5307
+Czerniejewo;10;2691
+D¹bie;9;1986
+Dobra;2;1369
+Dobrzyca;20;3128
+Dolsk;6;1560
+Gniezno;41;68217
+Golina;4;4478
+Go³añcz;13;3282
+Gostyñ;11;20296
+Grabów nad Prosn¹;3;1924
+Grodzisk Wielkopolski;18;14697
+Jaraczewo;10;1413
+Jarocin;16;26106
+Jastrowie;72;8633
+Jutrosin;2;1977
+Kalisz;69;100246
+Kêpno;8;14012
+Kleczew;8;4151
+K³ecko;10;2618
+K³odawa;4;6418
+Kobylin;5;3237
+Ko³o;14;21686
+Konin;82;73522
+Kostrzyn;8;9684
+Koœcian;9;23876
+KoŸmin Wielkopolski;6;6472
+Kórnik;6;7953
+Krajenka;4;3643
+Krobia;7;4320
+Krotoszyn;23;28804
+Krzywiñ;2;1717
+Krzy¿ Wielkopolski;6;6176
+Ksi¹¿ Wielkopolski;2;2715
+Leszno;32;63505
+Luboñ;14;31941
+Lwówek;3;2954
+£ob¿enica;3;2952
+Margonin;5;2983
+Miejska Górka;3;3198
+Miêdzychód;7;10587
+Mikstat;3;1845
+Mi³os³aw;4;3551
+Mosina;14;14124
+Murowana Goœlina;9;10433
+Nekla;20;3807
+Nowe Skalmierzyce;1;4752
+Nowy Tomyœl;5;14431
+Oborniki;14;18055
+Obrzycko;4;2375
+Odolanów;5;5145
+Okonek;6;3873
+Opalenica;6;9572
+Opatówek;9;3629
+Osieczna;5;2369
+Ostroróg;1;1892
+Ostrów Wielkopolski;42;71931
+Ostrzeszów;12;14134
+Pi³a;103;73139
+Pleszew;13;17192
+Pniewy;9;8134
+Pobiedziska;10;9311
+Pogorzela;4;2088
+Poniec;3;2855
+Poznañ;262;534813
+Przedecz;3;1648
+Puszczykowo;16;9657
+Pyzdry;12;3118
+Rakoniewice;3;3587
+Raszków;2;2115
+Rawicz;8;20111
+RogoŸno;11;11088
+Rychwa³;10;2373
+Rydzyna;2;2897
+Sieraków;14;5993
+Skoki;11;4425
+S³upca;10;13658
+Sompolno;6;3538
+Stawiszyn;1;1494
+Stêszew;6;5946
+Sulmierzyce;29;2851
+Swarzêdz;9;30201
+Szamocin;5;4192
+Szamotu³y;11;18853
+Œlesin;7;3131
+Œmigiel;5;5641
+Œrem;12;29446
+Œroda Wielkopolska;22;23505
+Trzcianka;18;17140
+Trzemeszno;5;7655
+Tuliszków;7;3239
+Turek;16;26833
+Ujœcie;6;3674
+W¹growiec;18;25686
+Wieleñ;4;5860
+Wielichowo;1;1757
+Witkowo;8;7812
+Wolsztyn;5;13018
+Wronki;6;11119
+Wrzeœnia;13;30922
+Wyrzysk;4;5123
+Wysoka;5;2598
+Zagórów;4;2945
+Zb¹szyñ;5;7239
+Zduny;6;4487
+Z³otów;12;18532
+¯erków;2;2110
+Barlinek;18;13663
+Barwice;8;3686
+Bia³ogard;26;24146
+Bia³y Bór;13;2210
+Bobolice;5;3961
+Borne Sulinowo;18;5099
+Cedynia;2;1520
+Chociwel;4;3150
+Chojna;12;7408
+Choszczno;10;15109
+Czaplinek;14;7119
+Cz³opa;6;2306
+Dar³owo;20;13695
+Dêbno;20;13696
+Dobra;2;2290
+Dobrzany;5;2247
+Drawno;5;2274
+Drawsko Pomorskie;22;11523
+Dziwnów;7;2660
+Golczewo;7;2660
+Goleniów;12;22216
+Goœcino;6;2418
+Gryfice;12;16415
+Gryfino;12;21167
+Iñsko;7;1918
+Kalisz Pomorski;12;4388
+Kamieñ Pomorski;11;8808
+Karlino;9;5918
+Ko³obrzeg;26;46259
+Koszalin;98;107048
+Lipiany;6;3908
+£obez;13;10066
+Maszewo;6;3363
+Mielno;33;2914
+Mieszkowice;5;3612
+Miêdzyzdroje;5;5343
+Miros³awiec;2;3066
+Moryñ;6;1629
+Myœlibórz;15;11109
+Nowe Warpno;25;1181
+Nowogard;13;16585
+Pe³czyce;13;2589
+P³oty;4;3927
+Polanów;7;2889
+Police;37;32490
+Po³czyn-Zdrój;8;8020
+Pyrzyce;39;12578
+Recz;12;2883
+Resko;4;4205
+Sianów;16;6621
+S³awno;16;12468
+Stargard;48;67837
+Stepnica;3;2472
+Suchañ;4;1462
+Szczecin;301;401907
+Szczecinek;48;40043
+Œwidwin;22;15468
+Œwinoujœcie;202;40888
+Trzciñsko-Zdrój;2;2248
+Trzebiatów;10;9964
+Tuczno;9;1913
+Tychowo;4;2520
+Wa³cz;38;25179
+Wêgorzyno;7;2779
+Wolin;14;4770
+Z³ocieniec;32;12833

@@ -8,6 +8,7 @@
 - Zestaw 4 - porównywanie rozkładów próbki; `ks.test`, `shapiro.test`
 - Zestaw 5 - analiza danych: `kruskal.test`, `ks.test`; test niezależności `chisq.test`
 - **Kolokwium**
+- Zestaw 6 - test Benforda, charakter losowy próbki
 
 ### Notatki:
 
@@ -40,3 +41,7 @@
 - `chisq.test` - **Test niezależeności**. Pozwala sprawdzić czy dane w postaci macierzy są od siebie niezależne.
 
 - Hipoteza zerowa jest przyjomowana jeśli **p value > 0.05**
+
+---
+
+- Test Benforda `benford` wykorzysuje się m.in. do analizy pierwszych cyfr w liczbach
