@@ -49,3 +49,7 @@
 - Porównanie średnich `t.test` lub `tsum.test`
 
 - Sprawdzając równość wariancji, najpierw trzeba określić czy dane pochodzą z rozkładu normalnego `shapiro.test`. Jeśli pochodzą można skorzystać z `var.test` lub `bartlett.test` (dla wielu wariancji). Jeśli nie pochodzą należy skorzystać z `levene.test`
+
+- Analiza wariancji `aov` wymaga spełenienia warunków: rozkład noramlny i równość wariancji
+
+- Testy porównań wielokrotnych **post-hoc**, wykonujemy po fakcie, kiedy stwierdzimy brak równości średnich. Pozwala ocenić które grupy są odpowiedzialne za odrzycenie hipotezy. `pairwise.t.test`, `LSD.test`, `TukeyHSD` (wymagają analizy `aov`)
