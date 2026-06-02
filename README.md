@@ -45,3 +45,7 @@
 ---
 
 - Test Benforda `benford` wykorzysuje się m.in. do analizy pierwszych cyfr w liczbach
+
+- Porównanie średnich `t.test` lub `tsum.test`
+
+- Sprawdzając równość wariancji, najpierw trzeba określić czy dane pochodzą z rozkładu normalnego `shapiro.test`. Jeśli pochodzą można skorzystać z `var.test` lub `bartlett.test` (dla wielu wariancji). Jeśli nie pochodzą należy skorzystać z `levene.test`
