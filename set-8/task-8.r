@@ -1,0 +1,1 @@
+# nie robiliśmy zadań na proporcje
